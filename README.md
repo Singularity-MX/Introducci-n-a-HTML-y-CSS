@@ -50,7 +50,7 @@
 #Link:
 https://goo.su/iIbxZz6
 
-d0.dev
+v0.dev
 
 ### Notas Finales
 Este temario está diseñado para proporcionar una introducción sólida y práctica a HTML y CSS en un período de 1 hora y 30 minutos. Se recomienda un enfoque interactivo con ejemplos en vivo y ejercicios simples para reforzar los conceptos aprendidos. Asegúrate de ajustar el ritmo y el contenido según la audiencia y su nivel de familiaridad con el desarrollo web. ¡Disfruta enseñando HTML y CSS!
